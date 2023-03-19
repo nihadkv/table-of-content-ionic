@@ -1,0 +1,7 @@
+{
+  "name": "scroll-content-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
